@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Portfolio - Daniel Johandika</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #111;
+            color: #f0f0f0;
+        }
+        header {
+            padding: 20px;
+            text-align: center;
+            background: #1a1a1a;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.5);
+        }
+        header h1 {
+            margin: 0;
+            font-size: 32px;
+            letter-spacing: 1px;
+        }
+        section {
+            max-width: 800px;
+            margin: 40px auto;
+            padding: 20px;
+            background: #1a1a1a;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.6);
+        }
+        h2 {
+            border-bottom: 1px solid #444;
+            padding-bottom: 10px;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            color: #aaa;
+            margin-top: 40px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Daniel Johandika</h1>
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <p>Halo, nama saya <strong>Daniel Johandika</strong>. Saya sekolah di SMK Tunas Pembangunan, jurusan Teknik Komputer dan Jaringan (TKJ), kelas 12. Saya tertarik dalam dunia teknologi, jaringan komputer, dan pengembangan web.</p>
+    </section>
+
+    <section>
+        <h2>Kontak</h2>
+        <p>Email: daniel@example.com</p>
+        <p>Instagram: @username</p>
+    </section>
+
+    <footer>
+        &copy; 2025 Daniel Johandika. All rights reserved.
+    </footer>
+</body>
+</html>
